@@ -1,0 +1,4 @@
+adb shell input tap <x> <y>
+adb shell input swipe <x1> <y1> <x2> <y2>
+adb shell input keyevent
+
